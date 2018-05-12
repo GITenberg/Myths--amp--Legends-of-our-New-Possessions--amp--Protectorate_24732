@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2113'
     url: http://www.gutenberg.org/2009/agents/2113
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24732#Myths--amp--Legends-of-our-New-Possessions--amp--Protectorate
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2008-03-02'
 gutenberg_type: Text
