@@ -1,0 +1,29 @@
+_repo: Myths--amp--Legends-of-our-New-Possessions--amp--Protectorate_24732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Skinner, Charles M. (Charles Montgomery)
+    alias: Skinner, Charles Montgomery
+    birthdate: 1852
+    deathdate: 1907
+    gutenberg_agent_id: '2113'
+    url: http://www.gutenberg.org/2009/agents/2113
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2008-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- West Indies'
+- !lcsh 'Tales -- Oceania'
+title: Myths & Legends of our New Possessions & Protectorate
+url: http://www.gutenberg.org/ebooks/24732
